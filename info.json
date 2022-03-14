@@ -1,0 +1,27 @@
+{
+  "name": "Kevin Wu",
+  "website": "https://github.com/KdoubleUs",
+  "personal-landing page": "https://kdoubleus.github.io/",
+  "github": "KdoubleUs",
+  "email": "kevinwuinbox@gmail.com",
+  "resume": "n/a",
+  "proficientTechnology": ["Javascript", "React", "NodeJS", "MongoDB"],
+  "Markup Language": ["HTML", "CSS"],
+  "Language": [
+    "Cantonese (proficient)",
+    "english (proficient)",
+    "mandarin (beginner)"
+  ],
+  "Education": [
+    "B.S Science Chemistry (3.15 GPA) ",
+    "Minor:psychology (3.90 GPA)"
+  ],
+  "skills": [
+    "microsoft office",
+    "microsoft word",
+    "microsoft excel",
+    " microsoft powerpoint",
+    "data-analysis"
+  ],
+  "achivement": ["merit scholarship", "dean honor award"]
+}

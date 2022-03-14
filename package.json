@@ -1,0 +1,14 @@
+{
+  "name": "kdoubleus-resume",
+  "version": "1.0.0",
+  "description": "Personal resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kevin w",
+  "license": "ISC",
+  "bin": {
+    "resume-me": "./index.js"
+  }
+}
